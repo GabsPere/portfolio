@@ -1,3 +1,6 @@
+#README: Desafio realizado com o intuito de consolidar o conteúdo aprendido no primeiro módulo. É um sistem simples
+# de gerenciamento de times, com adição e remoção de jogadores e times, além da listagem e escalação dos times.
+
 times = {}
 autenticação = False
 divisoria = "-"
