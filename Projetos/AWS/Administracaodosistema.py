@@ -9,6 +9,8 @@ commandArgument="-a"
 print(f'Gathering system information with command: {command} {commandArgument}')
 subprocess.run([command,commandArgument])
 
+# funciona assim também
+# subprocess.run(["uname","-a"])
 
 command="ps"
 commandArgument="-x"
