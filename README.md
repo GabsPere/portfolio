@@ -3,7 +3,8 @@
 
 O objetivo desse portifólio é publicar sobre minha evolução e meus projetos **_finalizados / em andamento._**
 
-Estou focando na área de computação em nuvem, especificamente na AWS.
+Estou focando na área de computação em nuvem, especificamente na AWS, mas estou aprendendo a programar em
+Python e pretendo me aprofundar em Linux também.
 
 Podemos nos conectar através do Linkedin:
 
