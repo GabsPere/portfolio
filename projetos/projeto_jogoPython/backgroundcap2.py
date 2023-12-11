@@ -1,4 +1,4 @@
-# Aqui irei escrever a história do cap3 para ficar separado
+# Aqui irei escrever a história do cap2 para ficar separado
 guerreiro = "Jacthor"
 # 1 - Primeira parte
 parte1 = ("Como percebemos, adivinhação tem seu lado de sorte, mas dependendo"
